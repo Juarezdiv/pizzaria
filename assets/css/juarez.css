@@ -124,11 +124,11 @@ footer, ul {
 
 
 
-/*@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
+@media screen and (max-width: 760px) {
+  .col-sm-5 img {
+    display: none;
   }
-}*/
+}
 
   
 
